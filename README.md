@@ -47,7 +47,7 @@ A free, fast, and easy-to-use Text-to-Speech (TTS) tool utilizing Microsoft's `T
 2. Run the following command to start the TTS Converter GUI:
 
    ```bash
-   python tts_converter.py
+   python tts.py
    ```
 
 ## Usage
